@@ -27,7 +27,7 @@
 
 ## 사용 기술
 * 언어 : Python, R
-* 크롤링 : selenium, beatifulSoup
+* 크롤링 : selenium, beautifulSoup
 * 전처리, 추천시스템 구축 : KoNLPy-Okt, scikit-learn
 * 시각화 : WordCloud, folium 
 
